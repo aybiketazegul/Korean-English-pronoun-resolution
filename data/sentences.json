@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "korean": "학교에 갔다.",
+    "subject": "omitted",
+    "gender": "unknown",
+    "note": "pro-drop subject",
+    "english_target": "(He/She/They) went to school."
+  },
+  {
+    "id": 2,
+    "korean": "밥 먹었어?",
+    "subject": "omitted (you)",
+    "gender": "second-person",
+    "note": "informal question",
+    "english_target": "Did you eat?"
+  },
+  {
+    "id": 3,
+    "korean": "민수가 집에 갔다.",
+    "subject": "민수",
+    "gender": "male",
+    "note": "explicit subject with -가",
+    "english_target": "He went home."
+  },
+  {
+    "id": 4,
+    "korean": "영희는 숙제를 끝냈다.",
+    "subject": "영희",
+    "gender": "female",
+    "note": "topic-marked subject with -는",
+    "english_target": "She finished her homework."
+  },
+  {
+    "id": 5,
+    "korean": "선생님이 오셨어요.",
+    "subject": "선생님",
+    "gender": "unknown",
+    "honorific": true,
+    "note": "honorific verb -시-",
+    "english_target": "They arrived."
+  },
+  {
+    "id": 6,
+    "korean": "저 사람은 의사예요.",
+    "subject": "저 사람",
+    "gender": "unknown",
+    "note": "neutral noun (person)",
+    "english_target": "They are a doctor."
+  },
+  {
+    "id": 7,
+    "korean": "아이가 울고 있다.",
+    "subject": "아이",
+    "gender": "unknown",
+    "note": "neutral noun (child)",
+    "english_target": "The child is crying."
+  },
+  {
+    "id": 8,
+    "korean": "민수는 영희를 도와주었다. 그래서 그가 칭찬을 받았다.",
+    "subject": "그",
+    "gender": "male (default to 민수)",
+    "note": "ambiguous pronoun; choose closest male name",
+    "english_target": "Minsu helped Younghee. So he received praise."
+  },
+  {
+    "id": 9,
+    "korean": "부모님이 기뻐하셨다.",
+    "subject": "부모님",
+    "gender": "plural",
+    "honorific": true,
+    "note": "plural + honorific",
+    "english_target": "They were pleased."
+  },
+  {
+    "id": 10,
+    "korean": "언니가 왔어.",
+    "subject": "언니",
+    "gender": "female",
+    "note": "lexically female noun",
+    "english_target": "She came."
+  },
+  {
+    "id": 11,
+    "korean": "저 분이 나를 도왔어요.",
+    "subject": "저 분",
+    "gender": "unknown",
+    "honorific": true,
+    "note": "honorific neutral noun",
+    "english_target": "They helped me."
+  },
+  {
+    "id": 12,
+    "korean": "친구가 전화했어.",
+    "subject": "친구",
+    "gender": "unknown",
+    "note": "neutral noun (friend)",
+    "english_target": "My friend called."
+  },
+  {
+    "id": 13,
+    "korean": "강아지가 짖고 있어.",
+    "subject": "강아지",
+    "gender": "non-human",
+    "note": "animal subject",
+    "english_target": "The dog is barking."
+  },
+  {
+    "id": 14,
+    "korean": "누가 문을 열었어?",
+    "subject": "누가",
+    "gender": "unknown",
+    "note": "wh-question subject",
+    "english_target": "Who opened the door?"
+  },
+  {
+    "id": 15,
+    "korean": "그 사람이 말했어.",
+    "subject": "그 사람",
+    "gender": "unknown",
+    "note": "neutral noun (that person)",
+    "english_target": "That person said it."
+  }
+]
