@@ -16,12 +16,12 @@ Building a minimal prototype allows investigation of:
 
 ## Repository Structure
 data/
-    sentences.json     — A small manually constructed dataset of 15 Korean sentences, each annotated with subject information and target English pronoun choices.
+    sentences.json     : A small manually constructed dataset of 15 Korean sentences, each annotated with subject information and target English pronoun choices.
 
 src/
-    pronoun_module.py  — A basic rule-based model that detects likely subjects and selects pronouns based on predefined rules.
+    pronoun_module.py  : A basic rule-based model that detects likely subjects and selects pronouns based on predefined rules.
 
-README.md             — Project documentation.
+README.md             : Project documentation.
 
 ## How the Prototype Works
 The pronoun selection process follows several linguistic rules:
@@ -64,7 +64,7 @@ These limitations are expected and consistent with the project's exploratory and
 ## Future Directions
 Possible extensions include:
 
-- Adding more detailed name–gender mappings based on available corpora.
+- Adding more detailed name, gender mappings based on available corpora.
 - Implementing a larger rule set for subject detection.
 - Incorporating a statistical or neural coreference model (e.g., via spaCy or transformers).
 - Expanding the dataset with more varied constructions.
