@@ -74,4 +74,3 @@ Possible extensions include:
 ## Purpose of This Repository
 This project represents an initial attempt to bridge linguistic theory and computational implementation. It models how cross-linguistic differences can be formalized into interpretable rules and provides a starting point for further work in computational linguistics, pronoun resolution, and translation research.
 
-All linguistic rules, analysis, design decisions, and annotations are my own work, and I fully understand and can explain every component of the prototype.
